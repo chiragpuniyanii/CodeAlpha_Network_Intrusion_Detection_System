@@ -1,7 +1,5 @@
 # Network Intrusion Detection System (NIDS) using Snort and Suricata
 
-![NIDS Logo](https://example.com/nids-logo.png)
-
 ## Overview
 This project implements a Network Intrusion Detection System (NIDS) using Snort and Suricata, with log visualization through the ELK stack.
 
